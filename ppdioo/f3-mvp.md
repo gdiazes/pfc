@@ -12,8 +12,6 @@ Este documento es una versión acotada y enfocada de varios documentos de las fa
 
 #### **Plantilla Detallada: Plan de Implementación y Aceptación del MVP**
 
-```
-________________________________________________________________________________
 
 **PLAN DE IMPLEMENTACIÓN Y ACEPTACIÓN DEL MVP: Proyecto "Wi-Fi del Futuro" - Piso de Marketing**
 
@@ -73,22 +71,5 @@ ________________________________________________________________________________
 **Aprobación Final del MVP (para continuar con el proyecto):**
 - **Jefe de Proyecto:** _________________________
 - **Director de Marketing (Stakeholder):** _________________________
-________________________________________________________________________________
-```
 
-### **Integración en el Ciclo PPDIOO**
-
-1.  **Preparar y Planificar:** Se mantienen igual.
-2.  **Diseñar:**
-    *   Se crea el **Diseño Completo (HLD y LLD)** para toda la solución.
-    *   **AQUÍ SE CREA** el **"Plan de Implementación y Aceptación del MVP"** como un sub-documento del plan de proyecto.
-3.  **Implementar (Fase 1 - MVP):**
-    *   Se ejecuta *solo* la parte del plan de implementación correspondiente al MVP.
-    *   Se completa la sección de "Resultados y Recomendaciones" del documento del MVP.
-4.  **GO/NO-GO GATE (Puerta de Decisión):**
-    *   Se presenta el documento del MVP completado a los stakeholders.
-    *   Si se aprueba, se obtiene la luz verde y el presupuesto final para continuar.
-5.  **Implementar (Fase 2 - Despliegue Completo):**
-    *   Se ejecuta el resto del plan de implementación.
-6.  **Operar y Optimizar:** Se aplican al sistema completo una vez que está totalmente desplegado.
 
