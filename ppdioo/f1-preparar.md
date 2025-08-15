@@ -1,5 +1,3 @@
-### **Fase 1: Preparar (Prepare)**
-
 #### **Plantilla Detallada: Caso de Negocio (Business Case)**
 
 **CASO DE NEGOCIO: Proyecto "Wi-Fi del Futuro" para la Oficina Híbrida**
